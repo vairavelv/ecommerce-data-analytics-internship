@@ -1,0 +1,1001 @@
+customer_id,signup_date,acquisition_channel,preferred_device,engagement_score
+CUS0001,2025-05-06,Organic Search,Desktop,31.1
+CUS0002,2024-11-20,Social Media,Desktop,19.5
+CUS0003,2026-01-11,Paid Ads,Desktop,17.6
+CUS0004,2024-11-14,Referral,Mobile,60.4
+CUS0005,2026-06-06,Direct,Mobile,49.3
+CUS0006,2025-05-12,Referral,Desktop,10.6
+CUS0007,2025-11-01,Email,Tablet,93.9
+CUS0008,2025-07-22,Referral,Mobile,24.9
+CUS0009,2025-05-23,Direct,Mobile,32.1
+CUS0010,2026-03-03,Social Media,Tablet,36.0
+CUS0011,2026-06-17,Organic Search,Desktop,48.9
+CUS0012,2025-07-23,Direct,Desktop,79.1
+CUS0013,2024-09-22,Organic Search,Desktop,82.7
+CUS0014,2025-12-30,Referral,Desktop,57.8
+CUS0015,2025-06-25,Paid Ads,Tablet,45.5
+CUS0016,2026-04-24,Paid Ads,Mobile,45.7
+CUS0017,2025-11-23,Email,Mobile,17.7
+CUS0018,2026-04-23,Referral,Desktop,36.6
+CUS0019,2026-05-04,Direct,Mobile,23.5
+CUS0020,2025-01-07,Organic Search,Desktop,8.8
+CUS0021,2024-10-27,Paid Ads,Mobile,55.1
+CUS0022,2024-10-14,Email,Desktop,59.1
+CUS0023,2025-02-26,Paid Ads,Desktop,36.3
+CUS0024,2026-04-13,Paid Ads,Mobile,90.6
+CUS0025,2024-10-12,Social Media,Tablet,99.8
+CUS0026,2026-07-12,Paid Ads,Desktop,37.1
+CUS0027,2026-01-14,Email,Desktop,46.0
+CUS0028,2026-01-18,Organic Search,Mobile,20.9
+CUS0029,2025-02-16,Paid Ads,Mobile,31.5
+CUS0030,2026-04-18,Referral,Desktop,37.0
+CUS0031,2024-09-12,Direct,Tablet,47.0
+CUS0032,2026-03-11,Organic Search,Desktop,74.1
+CUS0033,2024-11-25,Paid Ads,Tablet,92.2
+CUS0034,2025-06-08,Referral,Mobile,68.6
+CUS0035,2026-01-27,Referral,Desktop,19.7
+CUS0036,2025-09-29,Organic Search,Desktop,84.0
+CUS0037,2026-05-02,Referral,Desktop,54.0
+CUS0038,2025-09-24,Paid Ads,Mobile,92.9
+CUS0039,2025-03-24,Organic Search,Desktop,15.7
+CUS0040,2026-02-28,Paid Ads,Mobile,57.4
+CUS0041,2024-09-16,Email,Desktop,62.1
+CUS0042,2025-04-12,Referral,Desktop,6.3
+CUS0043,2025-11-06,Referral,Mobile,40.7
+CUS0044,2025-12-31,Organic Search,Mobile,9.0
+CUS0045,2025-01-24,Social Media,Mobile,25.4
+CUS0046,2025-10-15,Referral,Mobile,23.0
+CUS0047,2024-09-30,Referral,Desktop,84.1
+CUS0048,2025-08-31,Paid Ads,Mobile,59.5
+CUS0049,2025-03-18,Paid Ads,Mobile,35.6
+CUS0050,2024-10-26,Referral,Mobile,7.1
+CUS0051,2024-09-24,Social Media,Mobile,64.2
+CUS0052,2026-01-30,Direct,Desktop,51.0
+CUS0053,2025-09-21,Social Media,Desktop,86.0
+CUS0054,2025-03-05,Paid Ads,Desktop,48.0
+CUS0055,2025-10-07,Referral,Tablet,56.3
+CUS0056,2025-12-17,Email,Desktop,61.6
+CUS0057,2025-05-14,Email,Mobile,22.2
+CUS0058,2024-11-02,Organic Search,Mobile,64.7
+CUS0059,2025-08-30,Paid Ads,Tablet,11.4
+CUS0060,2025-10-19,Social Media,Mobile,35.7
+CUS0061,2025-02-03,Email,Desktop,37.2
+CUS0062,2025-08-02,Organic Search,Mobile,22.5
+CUS0063,2025-12-16,Paid Ads,Desktop,31.4
+CUS0064,2024-11-14,Direct,Mobile,80.7
+CUS0065,2025-05-21,Email,Mobile,64.0
+CUS0066,2025-04-07,Email,Mobile,80.9
+CUS0067,2024-12-29,Referral,Desktop,54.7
+CUS0068,2026-05-16,Paid Ads,Desktop,96.1
+CUS0069,2024-12-03,Organic Search,Desktop,14.2
+CUS0070,2026-04-17,Organic Search,Mobile,62.9
+CUS0071,2026-07-13,Referral,Mobile,27.0
+CUS0072,2024-08-27,Referral,Desktop,50.1
+CUS0073,2026-01-08,Email,Desktop,20.3
+CUS0074,2026-07-01,Organic Search,Desktop,35.8
+CUS0075,2025-03-17,Organic Search,Tablet,59.2
+CUS0076,2025-12-23,Paid Ads,Desktop,8.3
+CUS0077,2025-10-02,Organic Search,Mobile,12.7
+CUS0078,2024-09-18,Organic Search,Desktop,14.3
+CUS0079,2025-06-17,Paid Ads,Mobile,63.7
+CUS0080,2026-07-11,Social Media,Mobile,83.3
+CUS0081,2025-04-03,Direct,Mobile,84.0
+CUS0082,2026-03-31,Social Media,Desktop,19.6
+CUS0083,2025-12-08,Direct,Tablet,55.3
+CUS0084,2026-02-22,Email,Desktop,63.1
+CUS0085,2024-10-20,Referral,Mobile,12.5
+CUS0086,2026-05-22,Paid Ads,Desktop,15.1
+CUS0087,2025-07-08,Referral,Desktop,60.0
+CUS0088,2025-08-25,Paid Ads,Desktop,48.3
+CUS0089,2025-06-30,Organic Search,Desktop,42.4
+CUS0090,2025-06-02,Direct,Desktop,64.5
+CUS0091,2026-05-11,Email,Mobile,83.1
+CUS0092,2025-12-11,Paid Ads,Mobile,19.5
+CUS0093,2025-06-20,Organic Search,Mobile,35.2
+CUS0094,2026-05-06,Paid Ads,Desktop,41.9
+CUS0095,2024-12-31,Email,Mobile,66.9
+CUS0096,2024-12-31,Social Media,Mobile,36.4
+CUS0097,2025-07-17,Organic Search,Mobile,90.7
+CUS0098,2025-01-04,Paid Ads,Mobile,56.8
+CUS0099,2025-09-24,Email,Mobile,80.6
+CUS0100,2025-06-23,Direct,Mobile,81.3
+CUS0101,2025-08-29,Email,Desktop,20.2
+CUS0102,2026-04-16,Organic Search,Mobile,27.8
+CUS0103,2026-03-21,Organic Search,Mobile,44.8
+CUS0104,2025-07-07,Paid Ads,Tablet,41.5
+CUS0105,2026-05-28,Direct,Desktop,12.6
+CUS0106,2025-05-07,Social Media,Desktop,49.9
+CUS0107,2025-12-08,Organic Search,Desktop,36.8
+CUS0108,2025-09-25,Paid Ads,Tablet,25.2
+CUS0109,2024-10-31,Email,Mobile,53.5
+CUS0110,2024-11-24,Referral,Mobile,43.6
+CUS0111,2025-08-27,Paid Ads,Tablet,24.6
+CUS0112,2025-10-21,Social Media,Mobile,11.6
+CUS0113,2024-12-29,Paid Ads,Tablet,66.3
+CUS0114,2025-07-29,Social Media,Mobile,17.4
+CUS0115,2025-02-21,Social Media,Mobile,87.4
+CUS0116,2026-05-03,Social Media,Desktop,19.9
+CUS0117,2025-03-10,Organic Search,Mobile,20.9
+CUS0118,2025-06-22,Direct,Mobile,70.4
+CUS0119,2026-02-23,Email,Tablet,53.8
+CUS0120,2025-01-31,Paid Ads,Mobile,19.3
+CUS0121,2025-07-11,Social Media,Tablet,93.8
+CUS0122,2025-02-25,Direct,Mobile,36.2
+CUS0123,2024-12-19,Direct,Mobile,35.3
+CUS0124,2026-01-23,Referral,Mobile,55.1
+CUS0125,2024-12-31,Email,Mobile,33.0
+CUS0126,2024-08-26,Paid Ads,Mobile,59.7
+CUS0127,2025-07-25,Organic Search,Desktop,76.0
+CUS0128,2025-03-05,Paid Ads,Mobile,47.6
+CUS0129,2025-01-28,Email,Mobile,62.7
+CUS0130,2025-09-28,Direct,Mobile,43.6
+CUS0131,2025-01-04,Direct,Desktop,12.9
+CUS0132,2025-10-04,Paid Ads,Desktop,35.6
+CUS0133,2024-11-09,Paid Ads,Mobile,59.7
+CUS0134,2025-01-22,Paid Ads,Desktop,77.4
+CUS0135,2025-07-10,Paid Ads,Desktop,20.5
+CUS0136,2026-03-21,Organic Search,Mobile,43.9
+CUS0137,2024-12-19,Paid Ads,Mobile,17.8
+CUS0138,2025-04-30,Email,Tablet,60.1
+CUS0139,2025-06-17,Paid Ads,Mobile,36.1
+CUS0140,2025-03-05,Referral,Tablet,8.9
+CUS0141,2024-08-25,Organic Search,Mobile,21.7
+CUS0142,2025-07-25,Referral,Mobile,48.9
+CUS0143,2025-10-24,Referral,Mobile,45.2
+CUS0144,2024-11-17,Email,Mobile,15.8
+CUS0145,2025-04-23,Paid Ads,Mobile,50.3
+CUS0146,2025-08-27,Social Media,Mobile,18.1
+CUS0147,2026-03-16,Email,Mobile,88.3
+CUS0148,2025-08-30,Referral,Mobile,60.6
+CUS0149,2024-10-04,Paid Ads,Mobile,42.4
+CUS0150,2026-01-03,Email,Mobile,19.1
+CUS0151,2024-09-18,Referral,Mobile,77.0
+CUS0152,2024-10-16,Referral,Tablet,19.4
+CUS0153,2024-12-06,Social Media,Mobile,16.7
+CUS0154,2025-12-12,Direct,Desktop,38.7
+CUS0155,2025-01-11,Email,Mobile,29.4
+CUS0156,2025-03-22,Direct,Desktop,10.4
+CUS0157,2024-10-31,Social Media,Mobile,53.0
+CUS0158,2025-10-08,Direct,Mobile,55.5
+CUS0159,2025-05-14,Referral,Mobile,70.5
+CUS0160,2024-10-05,Organic Search,Tablet,81.2
+CUS0161,2024-10-20,Referral,Mobile,62.9
+CUS0162,2024-09-26,Paid Ads,Mobile,12.3
+CUS0163,2026-05-11,Organic Search,Mobile,20.6
+CUS0164,2026-06-30,Organic Search,Desktop,85.9
+CUS0165,2026-05-16,Email,Mobile,16.0
+CUS0166,2024-08-24,Referral,Mobile,48.6
+CUS0167,2025-10-03,Paid Ads,Desktop,41.0
+CUS0168,2025-05-24,Referral,Desktop,15.3
+CUS0169,2025-10-03,Organic Search,Desktop,69.3
+CUS0170,2026-05-31,Email,Mobile,10.9
+CUS0171,2024-10-22,Email,Mobile,51.1
+CUS0172,2025-08-08,Organic Search,Mobile,24.0
+CUS0173,2025-12-20,Referral,Mobile,16.3
+CUS0174,2026-06-17,Organic Search,Tablet,82.0
+CUS0175,2026-05-01,Organic Search,Mobile,98.4
+CUS0176,2025-07-02,Social Media,Mobile,45.6
+CUS0177,2025-01-30,Social Media,Desktop,25.4
+CUS0178,2026-03-14,Social Media,Tablet,12.5
+CUS0179,2025-07-15,Social Media,Desktop,19.2
+CUS0180,2025-11-06,Paid Ads,Mobile,91.5
+CUS0181,2025-04-20,Email,Mobile,20.6
+CUS0182,2025-12-20,Organic Search,Mobile,20.2
+CUS0183,2024-11-09,Email,Desktop,18.5
+CUS0184,2025-05-26,Email,Desktop,35.5
+CUS0185,2026-03-20,Social Media,Tablet,9.6
+CUS0186,2024-12-23,Direct,Tablet,87.9
+CUS0187,2025-04-26,Email,Mobile,92.6
+CUS0188,2024-10-04,Organic Search,Desktop,84.7
+CUS0189,2024-10-14,Social Media,Mobile,68.5
+CUS0190,2025-12-03,Paid Ads,Mobile,80.2
+CUS0191,2025-03-24,Paid Ads,Mobile,55.7
+CUS0192,2025-06-18,Paid Ads,Mobile,43.1
+CUS0193,2025-09-21,Direct,Mobile,82.2
+CUS0194,2026-07-17,Email,Mobile,64.8
+CUS0195,2024-12-29,Paid Ads,Mobile,61.8
+CUS0196,2025-11-03,Email,Desktop,16.2
+CUS0197,2026-06-04,Social Media,Mobile,85.4
+CUS0198,2024-09-17,Social Media,Mobile,59.5
+CUS0199,2025-10-14,Organic Search,Desktop,8.1
+CUS0200,2026-04-29,Referral,Desktop,60.2
+CUS0201,2025-09-19,Referral,Desktop,8.9
+CUS0202,2024-11-20,Social Media,Desktop,32.6
+CUS0203,2025-02-12,Paid Ads,Desktop,19.0
+CUS0204,2025-04-21,Paid Ads,Desktop,81.5
+CUS0205,2025-12-25,Social Media,Desktop,41.0
+CUS0206,2025-12-28,Direct,Mobile,93.3
+CUS0207,2026-01-19,Referral,Mobile,21.8
+CUS0208,2025-01-23,Referral,Desktop,10.1
+CUS0209,2025-01-04,Email,Mobile,6.9
+CUS0210,2025-12-31,Referral,Mobile,89.7
+CUS0211,2025-12-23,Organic Search,Mobile,55.0
+CUS0212,2024-11-02,Paid Ads,Mobile,54.4
+CUS0213,2024-09-07,Paid Ads,Desktop,94.5
+CUS0214,2026-05-25,Paid Ads,Desktop,26.6
+CUS0215,2026-01-23,Direct,Mobile,27.4
+CUS0216,2026-04-29,Social Media,Mobile,54.6
+CUS0217,2025-11-13,Paid Ads,Desktop,14.1
+CUS0218,2025-02-11,Referral,Desktop,25.1
+CUS0219,2025-06-06,Paid Ads,Mobile,59.8
+CUS0220,2025-09-10,Email,Desktop,22.4
+CUS0221,2026-02-26,Email,Desktop,10.3
+CUS0222,2026-04-09,Email,Tablet,62.4
+CUS0223,2025-02-04,Referral,Desktop,58.5
+CUS0224,2025-07-27,Paid Ads,Desktop,17.9
+CUS0225,2026-07-07,Social Media,Desktop,20.1
+CUS0226,2025-12-26,Referral,Desktop,88.2
+CUS0227,2025-04-02,Email,Desktop,22.8
+CUS0228,2025-07-02,Paid Ads,Mobile,21.0
+CUS0229,2025-02-26,Organic Search,Mobile,12.5
+CUS0230,2025-02-16,Email,Desktop,15.0
+CUS0231,2026-05-05,Organic Search,Mobile,60.2
+CUS0232,2024-11-29,Direct,Desktop,39.3
+CUS0233,2025-05-29,Social Media,Desktop,22.1
+CUS0234,2026-06-10,Direct,Tablet,13.6
+CUS0235,2024-09-20,Organic Search,Mobile,68.5
+CUS0236,2025-06-02,Direct,Mobile,85.4
+CUS0237,2026-02-05,Referral,Tablet,21.0
+CUS0238,2024-09-01,Social Media,Mobile,83.6
+CUS0239,2026-06-28,Email,Desktop,37.1
+CUS0240,2025-09-03,Paid Ads,Mobile,9.1
+CUS0241,2026-06-24,Email,Mobile,59.9
+CUS0242,2025-01-29,Referral,Mobile,72.7
+CUS0243,2025-01-25,Organic Search,Mobile,43.4
+CUS0244,2026-05-14,Email,Mobile,38.4
+CUS0245,2025-12-29,Email,Mobile,85.2
+CUS0246,2024-11-17,Paid Ads,Desktop,57.9
+CUS0247,2026-01-19,Paid Ads,Tablet,57.7
+CUS0248,2025-06-09,Organic Search,Mobile,37.3
+CUS0249,2025-07-06,Organic Search,Mobile,7.1
+CUS0250,2024-11-07,Direct,Mobile,51.8
+CUS0251,2025-02-15,Email,Tablet,66.6
+CUS0252,2025-01-17,Referral,Mobile,63.3
+CUS0253,2026-05-20,Social Media,Desktop,82.1
+CUS0254,2024-11-20,Email,Mobile,79.8
+CUS0255,2025-09-07,Referral,Mobile,47.0
+CUS0256,2026-06-11,Social Media,Mobile,36.0
+CUS0257,2026-05-16,Email,Desktop,86.3
+CUS0258,2025-03-08,Email,Mobile,16.6
+CUS0259,2024-11-06,Email,Desktop,63.8
+CUS0260,2026-03-06,Referral,Desktop,55.2
+CUS0261,2025-12-28,Direct,Mobile,83.1
+CUS0262,2026-01-16,Email,Mobile,20.1
+CUS0263,2024-11-05,Email,Desktop,55.4
+CUS0264,2025-12-06,Direct,Desktop,70.0
+CUS0265,2025-04-22,Direct,Mobile,57.3
+CUS0266,2025-06-03,Referral,Mobile,97.5
+CUS0267,2025-10-08,Referral,Mobile,18.8
+CUS0268,2025-05-08,Direct,Tablet,66.1
+CUS0269,2026-02-27,Organic Search,Mobile,65.2
+CUS0270,2024-10-07,Social Media,Desktop,20.9
+CUS0271,2024-10-18,Organic Search,Desktop,23.2
+CUS0272,2026-07-13,Paid Ads,Desktop,80.4
+CUS0273,2025-08-18,Paid Ads,Mobile,67.9
+CUS0274,2026-03-08,Direct,Desktop,17.4
+CUS0275,2025-09-10,Social Media,Mobile,50.6
+CUS0276,2025-11-10,Direct,Desktop,37.5
+CUS0277,2024-11-16,Email,Mobile,98.6
+CUS0278,2024-12-26,Referral,Mobile,23.7
+CUS0279,2026-01-01,Organic Search,Desktop,17.2
+CUS0280,2025-07-02,Organic Search,Mobile,22.4
+CUS0281,2025-10-20,Direct,Desktop,31.6
+CUS0282,2025-07-28,Organic Search,Tablet,47.0
+CUS0283,2024-10-27,Paid Ads,Desktop,89.2
+CUS0284,2025-02-04,Email,Mobile,44.2
+CUS0285,2026-06-15,Social Media,Desktop,38.0
+CUS0286,2025-04-19,Direct,Desktop,65.3
+CUS0287,2025-01-28,Organic Search,Mobile,60.9
+CUS0288,2025-12-31,Organic Search,Desktop,36.3
+CUS0289,2025-02-18,Referral,Mobile,23.6
+CUS0290,2026-05-22,Email,Mobile,24.8
+CUS0291,2026-05-17,Organic Search,Mobile,61.6
+CUS0292,2025-09-01,Paid Ads,Mobile,68.7
+CUS0293,2025-10-05,Paid Ads,Desktop,39.3
+CUS0294,2024-11-12,Referral,Desktop,15.2
+CUS0295,2024-12-21,Paid Ads,Mobile,22.4
+CUS0296,2025-05-29,Social Media,Mobile,21.4
+CUS0297,2025-07-06,Referral,Desktop,6.9
+CUS0298,2026-06-14,Organic Search,Mobile,23.6
+CUS0299,2026-03-11,Referral,Mobile,35.9
+CUS0300,2025-09-16,Direct,Desktop,44.3
+CUS0301,2025-09-27,Organic Search,Tablet,29.8
+CUS0302,2025-10-25,Paid Ads,Tablet,71.7
+CUS0303,2025-08-05,Referral,Desktop,32.3
+CUS0304,2025-06-09,Social Media,Mobile,22.7
+CUS0305,2025-10-21,Direct,Mobile,24.6
+CUS0306,2025-06-06,Organic Search,Desktop,47.2
+CUS0307,2026-05-07,Direct,Tablet,48.8
+CUS0308,2024-09-24,Paid Ads,Mobile,45.3
+CUS0309,2025-07-24,Paid Ads,Mobile,97.6
+CUS0310,2025-11-27,Organic Search,Mobile,22.7
+CUS0311,2025-09-14,Direct,Mobile,45.8
+CUS0312,2025-10-09,Paid Ads,Mobile,60.8
+CUS0313,2026-01-02,Email,Mobile,49.7
+CUS0314,2025-05-18,Email,Mobile,22.0
+CUS0315,2024-11-07,Social Media,Mobile,50.5
+CUS0316,2024-11-08,Paid Ads,Desktop,24.3
+CUS0317,2026-03-27,Organic Search,Mobile,11.8
+CUS0318,2025-03-14,Direct,Desktop,57.4
+CUS0319,2025-02-09,Social Media,Desktop,83.4
+CUS0320,2025-08-26,Referral,Tablet,22.4
+CUS0321,2025-03-27,Paid Ads,Mobile,21.2
+CUS0322,2024-12-28,Email,Desktop,58.4
+CUS0323,2026-05-09,Organic Search,Mobile,33.3
+CUS0324,2025-08-16,Organic Search,Desktop,21.1
+CUS0325,2026-06-29,Social Media,Desktop,21.7
+CUS0326,2024-09-15,Referral,Mobile,84.3
+CUS0327,2025-07-17,Direct,Mobile,92.8
+CUS0328,2026-01-05,Paid Ads,Desktop,24.5
+CUS0329,2026-06-07,Referral,Mobile,82.0
+CUS0330,2026-04-23,Social Media,Mobile,70.6
+CUS0331,2026-01-05,Social Media,Mobile,41.4
+CUS0332,2024-12-17,Email,Mobile,42.5
+CUS0333,2024-09-02,Referral,Desktop,26.0
+CUS0334,2025-12-25,Email,Tablet,76.6
+CUS0335,2025-11-26,Social Media,Tablet,20.6
+CUS0336,2024-12-05,Social Media,Mobile,55.5
+CUS0337,2026-05-12,Organic Search,Mobile,38.6
+CUS0338,2025-05-21,Social Media,Mobile,81.2
+CUS0339,2025-05-28,Referral,Mobile,43.8
+CUS0340,2025-07-30,Email,Mobile,95.8
+CUS0341,2024-12-14,Social Media,Desktop,66.8
+CUS0342,2026-05-22,Social Media,Desktop,62.1
+CUS0343,2026-01-03,Paid Ads,Desktop,23.3
+CUS0344,2025-01-17,Paid Ads,Desktop,48.9
+CUS0345,2025-12-22,Email,Desktop,95.9
+CUS0346,2026-06-05,Social Media,Desktop,12.1
+CUS0347,2025-09-04,Organic Search,Tablet,21.1
+CUS0348,2024-09-14,Social Media,Tablet,20.6
+CUS0349,2025-01-14,Email,Tablet,69.1
+CUS0350,2024-11-15,Paid Ads,Desktop,66.9
+CUS0351,2026-01-03,Email,Mobile,66.5
+CUS0352,2025-12-21,Email,Mobile,77.5
+CUS0353,2026-04-04,Paid Ads,Desktop,91.0
+CUS0354,2026-04-23,Email,Mobile,44.9
+CUS0355,2026-01-08,Paid Ads,Desktop,71.0
+CUS0356,2024-11-09,Social Media,Mobile,73.2
+CUS0357,2025-04-05,Email,Mobile,15.7
+CUS0358,2025-08-20,Direct,Mobile,38.3
+CUS0359,2025-08-26,Organic Search,Mobile,84.7
+CUS0360,2026-04-25,Direct,Mobile,39.2
+CUS0361,2025-08-12,Direct,Mobile,56.1
+CUS0362,2025-08-07,Email,Desktop,63.3
+CUS0363,2025-01-31,Paid Ads,Mobile,70.9
+CUS0364,2026-01-30,Social Media,Mobile,38.8
+CUS0365,2024-11-24,Direct,Desktop,35.5
+CUS0366,2025-10-09,Referral,Desktop,48.0
+CUS0367,2026-06-10,Referral,Mobile,61.4
+CUS0368,2025-04-29,Organic Search,Mobile,35.7
+CUS0369,2025-05-24,Direct,Desktop,15.8
+CUS0370,2024-10-19,Direct,Mobile,56.5
+CUS0371,2025-06-30,Direct,Mobile,79.7
+CUS0372,2025-01-07,Social Media,Desktop,92.4
+CUS0373,2026-02-04,Direct,Mobile,23.2
+CUS0374,2026-03-31,Social Media,Mobile,10.4
+CUS0375,2025-04-27,Organic Search,Desktop,78.6
+CUS0376,2025-08-21,Referral,Desktop,22.5
+CUS0377,2025-01-13,Organic Search,Mobile,65.7
+CUS0378,2025-08-11,Email,Mobile,47.3
+CUS0379,2025-01-10,Social Media,Mobile,45.0
+CUS0380,2024-08-28,Referral,Desktop,5.1
+CUS0381,2024-09-12,Social Media,Mobile,80.8
+CUS0382,2026-05-22,Referral,Mobile,49.9
+CUS0383,2024-09-11,Paid Ads,Mobile,38.3
+CUS0384,2025-07-29,Organic Search,Desktop,94.1
+CUS0385,2025-11-02,Social Media,Desktop,67.8
+CUS0386,2024-10-19,Email,Mobile,52.0
+CUS0387,2026-03-25,Referral,Desktop,10.7
+CUS0388,2025-10-15,Direct,Desktop,24.0
+CUS0389,2024-12-15,Social Media,Mobile,20.1
+CUS0390,2026-01-19,Organic Search,Tablet,26.7
+CUS0391,2024-10-05,Social Media,Mobile,29.9
+CUS0392,2025-06-27,Email,Desktop,13.5
+CUS0393,2025-07-28,Social Media,Mobile,28.9
+CUS0394,2025-12-09,Referral,Mobile,37.4
+CUS0395,2026-04-24,Paid Ads,Mobile,48.0
+CUS0396,2024-10-11,Paid Ads,Desktop,70.6
+CUS0397,2026-07-19,Paid Ads,Desktop,32.2
+CUS0398,2026-05-23,Organic Search,Mobile,57.6
+CUS0399,2026-05-30,Organic Search,Mobile,24.2
+CUS0400,2026-02-27,Paid Ads,Mobile,50.0
+CUS0401,2025-02-22,Paid Ads,Mobile,47.4
+CUS0402,2026-05-24,Social Media,Tablet,20.2
+CUS0403,2026-04-09,Direct,Desktop,79.5
+CUS0404,2025-03-10,Paid Ads,Mobile,53.9
+CUS0405,2026-06-28,Direct,Mobile,97.9
+CUS0406,2025-12-28,Social Media,Desktop,6.8
+CUS0407,2024-12-19,Organic Search,Mobile,50.8
+CUS0408,2024-10-29,Referral,Desktop,19.9
+CUS0409,2025-08-08,Paid Ads,Desktop,82.5
+CUS0410,2024-11-03,Email,Mobile,17.8
+CUS0411,2024-11-07,Organic Search,Desktop,30.1
+CUS0412,2024-10-04,Email,Mobile,24.7
+CUS0413,2026-01-29,Direct,Mobile,16.4
+CUS0414,2026-01-23,Organic Search,Mobile,56.6
+CUS0415,2025-04-16,Social Media,Mobile,67.2
+CUS0416,2026-07-21,Organic Search,Mobile,35.7
+CUS0417,2026-01-17,Email,Mobile,19.7
+CUS0418,2025-10-23,Referral,Desktop,67.7
+CUS0419,2024-11-06,Direct,Mobile,16.7
+CUS0420,2024-09-16,Social Media,Mobile,78.1
+CUS0421,2025-11-24,Direct,Tablet,48.9
+CUS0422,2025-02-02,Referral,Desktop,33.8
+CUS0423,2025-07-05,Email,Tablet,82.4
+CUS0424,2026-06-10,Social Media,Desktop,26.7
+CUS0425,2025-10-16,Organic Search,Desktop,95.6
+CUS0426,2025-03-17,Email,Desktop,5.7
+CUS0427,2025-03-14,Referral,Desktop,43.7
+CUS0428,2024-10-18,Email,Mobile,54.7
+CUS0429,2025-05-08,Referral,Mobile,36.3
+CUS0430,2024-09-12,Organic Search,Mobile,43.1
+CUS0431,2025-09-08,Organic Search,Mobile,35.6
+CUS0432,2025-03-07,Organic Search,Mobile,81.1
+CUS0433,2025-05-14,Referral,Desktop,44.1
+CUS0434,2024-11-24,Social Media,Desktop,51.6
+CUS0435,2024-10-09,Email,Mobile,18.1
+CUS0436,2024-12-09,Organic Search,Desktop,97.0
+CUS0437,2024-09-21,Organic Search,Mobile,61.4
+CUS0438,2025-11-13,Paid Ads,Tablet,21.3
+CUS0439,2024-08-25,Direct,Desktop,57.4
+CUS0440,2026-05-13,Paid Ads,Desktop,90.9
+CUS0441,2025-11-06,Direct,Mobile,46.6
+CUS0442,2025-02-27,Paid Ads,Desktop,78.3
+CUS0443,2025-05-14,Direct,Mobile,81.9
+CUS0444,2026-04-17,Social Media,Mobile,14.6
+CUS0445,2025-04-01,Paid Ads,Mobile,82.5
+CUS0446,2025-10-26,Paid Ads,Mobile,38.8
+CUS0447,2025-01-11,Paid Ads,Mobile,19.2
+CUS0448,2024-08-23,Social Media,Mobile,34.1
+CUS0449,2026-03-02,Email,Mobile,44.2
+CUS0450,2025-06-25,Social Media,Tablet,16.7
+CUS0451,2026-07-02,Email,Desktop,49.9
+CUS0452,2025-07-21,Direct,Mobile,18.6
+CUS0453,2024-12-09,Social Media,Desktop,20.1
+CUS0454,2024-09-26,Organic Search,Mobile,33.5
+CUS0455,2025-01-13,Email,Desktop,18.6
+CUS0456,2026-01-04,Referral,Desktop,47.8
+CUS0457,2025-11-01,Referral,Tablet,59.0
+CUS0458,2024-08-21,Social Media,Mobile,67.4
+CUS0459,2025-01-14,Referral,Tablet,36.8
+CUS0460,2024-10-21,Referral,Mobile,55.1
+CUS0461,2026-01-30,Social Media,Mobile,46.0
+CUS0462,2025-11-09,Organic Search,Mobile,26.1
+CUS0463,2024-12-21,Email,Mobile,40.3
+CUS0464,2025-12-04,Organic Search,Desktop,54.9
+CUS0465,2025-02-08,Direct,Mobile,9.6
+CUS0466,2026-04-24,Organic Search,Mobile,44.9
+CUS0467,2026-06-08,Paid Ads,Desktop,12.6
+CUS0468,2024-10-19,Referral,Mobile,16.6
+CUS0469,2025-12-21,Email,Desktop,54.1
+CUS0470,2026-03-13,Social Media,Mobile,32.4
+CUS0471,2026-01-24,Organic Search,Desktop,91.3
+CUS0472,2026-07-15,Referral,Desktop,69.3
+CUS0473,2025-02-04,Social Media,Mobile,22.7
+CUS0474,2024-11-05,Direct,Mobile,54.0
+CUS0475,2026-07-10,Organic Search,Mobile,61.9
+CUS0476,2025-05-29,Organic Search,Mobile,26.1
+CUS0477,2025-11-08,Direct,Mobile,35.0
+CUS0478,2025-04-07,Social Media,Desktop,43.5
+CUS0479,2025-03-18,Direct,Mobile,55.8
+CUS0480,2025-02-23,Paid Ads,Desktop,84.4
+CUS0481,2026-06-19,Paid Ads,Desktop,73.0
+CUS0482,2026-06-22,Social Media,Mobile,70.2
+CUS0483,2024-09-28,Organic Search,Mobile,63.6
+CUS0484,2026-05-18,Direct,Tablet,11.2
+CUS0485,2025-08-01,Email,Mobile,64.9
+CUS0486,2025-08-06,Organic Search,Mobile,40.6
+CUS0487,2025-10-29,Referral,Mobile,47.1
+CUS0488,2026-06-16,Referral,Desktop,40.3
+CUS0489,2026-03-26,Direct,Mobile,10.1
+CUS0490,2025-08-02,Social Media,Mobile,23.9
+CUS0491,2026-05-06,Social Media,Desktop,40.7
+CUS0492,2025-02-21,Social Media,Desktop,64.0
+CUS0493,2024-11-26,Email,Desktop,16.5
+CUS0494,2025-04-17,Direct,Mobile,56.1
+CUS0495,2024-12-18,Referral,Mobile,34.3
+CUS0496,2025-05-16,Paid Ads,Mobile,84.6
+CUS0497,2025-03-24,Direct,Mobile,9.4
+CUS0498,2026-06-19,Direct,Desktop,65.6
+CUS0499,2025-07-05,Email,Mobile,38.7
+CUS0500,2026-02-06,Social Media,Tablet,57.0
+CUS0501,2026-03-14,Referral,Mobile,46.9
+CUS0502,2024-10-31,Social Media,Desktop,14.9
+CUS0503,2024-12-20,Social Media,Desktop,23.8
+CUS0504,2026-04-26,Paid Ads,Desktop,56.9
+CUS0505,2024-08-30,Social Media,Tablet,29.1
+CUS0506,2025-07-13,Paid Ads,Mobile,50.6
+CUS0507,2025-05-13,Paid Ads,Tablet,60.8
+CUS0508,2026-06-16,Referral,Mobile,53.8
+CUS0509,2024-11-10,Direct,Desktop,65.1
+CUS0510,2024-10-02,Email,Tablet,42.8
+CUS0511,2025-01-30,Referral,Desktop,20.0
+CUS0512,2026-03-23,Social Media,Desktop,34.6
+CUS0513,2025-07-18,Social Media,Mobile,90.9
+CUS0514,2025-10-07,Direct,Desktop,34.9
+CUS0515,2025-10-20,Paid Ads,Mobile,5.9
+CUS0516,2025-07-04,Referral,Mobile,67.0
+CUS0517,2025-03-08,Organic Search,Mobile,84.6
+CUS0518,2025-03-05,Organic Search,Tablet,38.2
+CUS0519,2026-02-02,Email,Desktop,72.8
+CUS0520,2024-10-03,Referral,Desktop,28.7
+CUS0521,2025-09-18,Direct,Mobile,64.5
+CUS0522,2025-02-21,Organic Search,Mobile,30.6
+CUS0523,2024-11-22,Referral,Desktop,75.2
+CUS0524,2025-11-20,Email,Mobile,39.7
+CUS0525,2024-11-28,Social Media,Tablet,53.1
+CUS0526,2026-05-30,Paid Ads,Mobile,23.9
+CUS0527,2025-12-25,Paid Ads,Mobile,57.3
+CUS0528,2025-03-13,Paid Ads,Mobile,7.7
+CUS0529,2025-02-08,Organic Search,Mobile,69.4
+CUS0530,2024-09-09,Social Media,Mobile,47.9
+CUS0531,2025-09-29,Social Media,Mobile,78.0
+CUS0532,2026-07-10,Email,Desktop,78.1
+CUS0533,2025-09-14,Direct,Mobile,40.4
+CUS0534,2025-01-25,Social Media,Mobile,39.9
+CUS0535,2026-05-02,Social Media,Mobile,22.8
+CUS0536,2026-03-20,Direct,Mobile,70.3
+CUS0537,2025-10-05,Direct,Mobile,61.3
+CUS0538,2025-09-03,Referral,Mobile,46.3
+CUS0539,2025-09-18,Email,Desktop,25.1
+CUS0540,2025-07-21,Paid Ads,Mobile,58.7
+CUS0541,2025-05-18,Email,Mobile,5.8
+CUS0542,2025-05-17,Paid Ads,Desktop,35.9
+CUS0543,2025-10-07,Social Media,Mobile,39.8
+CUS0544,2024-08-28,Email,Desktop,29.0
+CUS0545,2025-08-13,Paid Ads,Desktop,24.0
+CUS0546,2025-03-27,Social Media,Mobile,47.0
+CUS0547,2025-04-11,Organic Search,Mobile,60.5
+CUS0548,2025-10-20,Paid Ads,Desktop,49.7
+CUS0549,2025-04-29,Referral,Mobile,60.5
+CUS0550,2025-03-08,Email,Desktop,55.1
+CUS0551,2025-08-19,Email,Tablet,63.6
+CUS0552,2025-08-29,Direct,Desktop,31.7
+CUS0553,2025-05-29,Referral,Mobile,55.6
+CUS0554,2025-10-05,Referral,Desktop,57.1
+CUS0555,2025-02-06,Organic Search,Mobile,77.1
+CUS0556,2025-11-08,Referral,Mobile,75.2
+CUS0557,2026-05-17,Paid Ads,Mobile,11.3
+CUS0558,2025-08-10,Direct,Desktop,96.5
+CUS0559,2024-10-28,Organic Search,Tablet,61.3
+CUS0560,2026-01-06,Social Media,Desktop,67.8
+CUS0561,2025-12-16,Paid Ads,Mobile,38.5
+CUS0562,2026-02-02,Referral,Tablet,91.1
+CUS0563,2024-10-09,Social Media,Mobile,37.6
+CUS0564,2026-04-09,Direct,Mobile,60.4
+CUS0565,2025-09-15,Social Media,Desktop,78.0
+CUS0566,2025-09-16,Paid Ads,Mobile,27.5
+CUS0567,2025-06-22,Direct,Mobile,74.9
+CUS0568,2025-12-28,Referral,Desktop,33.3
+CUS0569,2025-02-02,Referral,Desktop,58.2
+CUS0570,2024-12-13,Paid Ads,Tablet,45.9
+CUS0571,2025-09-19,Direct,Mobile,19.0
+CUS0572,2024-12-05,Direct,Tablet,58.5
+CUS0573,2026-04-28,Social Media,Desktop,10.4
+CUS0574,2025-11-23,Direct,Mobile,14.0
+CUS0575,2024-11-09,Email,Mobile,17.9
+CUS0576,2025-05-14,Referral,Desktop,77.6
+CUS0577,2026-03-24,Paid Ads,Mobile,31.3
+CUS0578,2024-10-28,Email,Mobile,33.5
+CUS0579,2024-11-14,Organic Search,Desktop,24.3
+CUS0580,2025-11-12,Referral,Mobile,66.7
+CUS0581,2026-03-12,Paid Ads,Mobile,9.2
+CUS0582,2025-06-28,Organic Search,Mobile,15.4
+CUS0583,2025-06-06,Direct,Tablet,89.5
+CUS0584,2025-09-14,Organic Search,Desktop,68.0
+CUS0585,2025-03-10,Organic Search,Mobile,76.0
+CUS0586,2025-04-22,Paid Ads,Tablet,23.2
+CUS0587,2025-01-18,Social Media,Mobile,24.8
+CUS0588,2024-09-18,Email,Desktop,11.9
+CUS0589,2025-02-10,Email,Mobile,33.1
+CUS0590,2026-04-15,Social Media,Desktop,35.6
+CUS0591,2026-07-16,Referral,Desktop,31.3
+CUS0592,2024-09-14,Organic Search,Desktop,43.7
+CUS0593,2025-01-03,Paid Ads,Mobile,17.5
+CUS0594,2025-04-11,Paid Ads,Mobile,36.9
+CUS0595,2026-01-25,Organic Search,Desktop,43.2
+CUS0596,2025-01-10,Email,Tablet,49.4
+CUS0597,2026-05-06,Direct,Mobile,75.6
+CUS0598,2025-05-03,Social Media,Mobile,36.1
+CUS0599,2025-10-31,Email,Mobile,34.5
+CUS0600,2024-11-19,Direct,Tablet,41.4
+CUS0601,2025-03-31,Direct,Mobile,19.9
+CUS0602,2025-12-05,Social Media,Mobile,32.3
+CUS0603,2025-01-14,Direct,Mobile,43.8
+CUS0604,2025-03-13,Referral,Desktop,88.1
+CUS0605,2026-01-26,Social Media,Mobile,75.7
+CUS0606,2026-01-18,Direct,Desktop,65.1
+CUS0607,2025-10-24,Direct,Desktop,55.1
+CUS0608,2025-07-30,Social Media,Mobile,69.3
+CUS0609,2026-01-09,Social Media,Desktop,17.7
+CUS0610,2025-03-31,Social Media,Mobile,70.1
+CUS0611,2025-07-19,Referral,Mobile,6.3
+CUS0612,2026-03-03,Paid Ads,Mobile,18.0
+CUS0613,2025-03-17,Paid Ads,Mobile,22.0
+CUS0614,2026-06-09,Paid Ads,Desktop,62.3
+CUS0615,2024-10-09,Paid Ads,Mobile,95.9
+CUS0616,2025-01-14,Social Media,Mobile,29.5
+CUS0617,2026-05-19,Direct,Desktop,72.3
+CUS0618,2025-01-01,Social Media,Mobile,70.9
+CUS0619,2025-12-01,Organic Search,Mobile,33.4
+CUS0620,2025-04-12,Paid Ads,Desktop,23.3
+CUS0621,2026-02-06,Social Media,Mobile,69.9
+CUS0622,2025-12-08,Social Media,Mobile,69.1
+CUS0623,2026-07-11,Social Media,Mobile,18.2
+CUS0624,2025-04-17,Organic Search,Desktop,61.5
+CUS0625,2025-06-04,Social Media,Mobile,15.6
+CUS0626,2026-05-24,Referral,Tablet,57.7
+CUS0627,2026-01-09,Social Media,Desktop,8.6
+CUS0628,2025-04-14,Email,Mobile,96.4
+CUS0629,2025-01-09,Direct,Tablet,56.5
+CUS0630,2025-06-13,Organic Search,Mobile,93.7
+CUS0631,2026-03-28,Email,Mobile,48.3
+CUS0632,2025-05-15,Paid Ads,Tablet,7.1
+CUS0633,2026-02-15,Social Media,Mobile,86.6
+CUS0634,2025-09-12,Paid Ads,Mobile,80.9
+CUS0635,2025-08-20,Organic Search,Desktop,27.7
+CUS0636,2026-02-14,Organic Search,Desktop,30.8
+CUS0637,2024-12-29,Email,Desktop,51.2
+CUS0638,2025-02-28,Social Media,Mobile,18.8
+CUS0639,2026-05-06,Organic Search,Mobile,53.8
+CUS0640,2025-08-31,Paid Ads,Mobile,14.7
+CUS0641,2026-05-02,Direct,Mobile,65.4
+CUS0642,2025-02-15,Organic Search,Mobile,21.5
+CUS0643,2025-10-25,Referral,Desktop,32.4
+CUS0644,2025-11-09,Direct,Mobile,22.9
+CUS0645,2026-01-30,Email,Mobile,57.3
+CUS0646,2026-05-21,Social Media,Desktop,21.5
+CUS0647,2026-04-18,Paid Ads,Mobile,33.8
+CUS0648,2025-07-07,Direct,Desktop,51.2
+CUS0649,2025-03-01,Social Media,Desktop,87.0
+CUS0650,2025-05-12,Social Media,Desktop,23.6
+CUS0651,2026-02-13,Direct,Mobile,33.0
+CUS0652,2024-10-14,Email,Desktop,77.1
+CUS0653,2025-04-22,Organic Search,Mobile,23.5
+CUS0654,2024-11-07,Paid Ads,Mobile,80.2
+CUS0655,2026-07-18,Email,Desktop,46.6
+CUS0656,2026-06-11,Social Media,Mobile,24.8
+CUS0657,2026-06-10,Paid Ads,Mobile,66.9
+CUS0658,2025-01-27,Social Media,Desktop,74.8
+CUS0659,2025-11-07,Social Media,Mobile,64.9
+CUS0660,2026-01-20,Social Media,Mobile,88.6
+CUS0661,2025-05-31,Paid Ads,Tablet,77.0
+CUS0662,2025-03-20,Direct,Mobile,58.7
+CUS0663,2025-09-11,Email,Mobile,84.7
+CUS0664,2025-10-29,Paid Ads,Desktop,95.0
+CUS0665,2025-10-23,Direct,Mobile,39.3
+CUS0666,2025-12-08,Paid Ads,Mobile,62.3
+CUS0667,2025-10-29,Paid Ads,Desktop,29.4
+CUS0668,2025-08-14,Social Media,Mobile,20.3
+CUS0669,2025-12-05,Referral,Tablet,59.5
+CUS0670,2025-07-15,Direct,Desktop,63.8
+CUS0671,2025-04-24,Email,Desktop,45.4
+CUS0672,2025-03-22,Referral,Mobile,99.9
+CUS0673,2026-07-15,Referral,Mobile,77.6
+CUS0674,2025-05-01,Email,Desktop,14.7
+CUS0675,2025-12-12,Referral,Desktop,45.9
+CUS0676,2025-04-03,Social Media,Mobile,6.9
+CUS0677,2024-09-17,Social Media,Mobile,77.2
+CUS0678,2025-10-26,Email,Mobile,53.9
+CUS0679,2026-05-04,Referral,Mobile,20.5
+CUS0680,2025-04-03,Direct,Mobile,23.2
+CUS0681,2025-12-02,Referral,Mobile,84.1
+CUS0682,2025-11-22,Paid Ads,Desktop,63.1
+CUS0683,2025-05-16,Social Media,Mobile,48.9
+CUS0684,2025-05-22,Direct,Mobile,38.5
+CUS0685,2026-07-03,Referral,Mobile,98.0
+CUS0686,2025-09-03,Direct,Mobile,59.6
+CUS0687,2025-10-30,Referral,Mobile,22.2
+CUS0688,2025-06-23,Social Media,Tablet,56.1
+CUS0689,2025-05-08,Email,Mobile,56.1
+CUS0690,2026-07-09,Organic Search,Mobile,21.8
+CUS0691,2026-06-08,Paid Ads,Desktop,56.1
+CUS0692,2025-08-06,Email,Tablet,87.7
+CUS0693,2024-12-10,Paid Ads,Desktop,51.0
+CUS0694,2026-02-18,Paid Ads,Desktop,81.0
+CUS0695,2026-05-01,Organic Search,Mobile,97.5
+CUS0696,2025-10-24,Social Media,Mobile,39.8
+CUS0697,2026-01-16,Paid Ads,Mobile,20.4
+CUS0698,2026-05-31,Email,Desktop,43.3
+CUS0699,2024-10-10,Email,Desktop,19.6
+CUS0700,2025-04-18,Referral,Mobile,45.9
+CUS0701,2025-01-12,Email,Desktop,52.2
+CUS0702,2024-11-03,Organic Search,Desktop,22.0
+CUS0703,2025-05-03,Social Media,Desktop,42.3
+CUS0704,2025-11-15,Organic Search,Mobile,7.0
+CUS0705,2026-07-21,Email,Mobile,44.7
+CUS0706,2026-05-09,Email,Mobile,78.2
+CUS0707,2025-12-13,Referral,Tablet,35.6
+CUS0708,2025-05-13,Referral,Desktop,49.5
+CUS0709,2025-04-16,Referral,Desktop,73.1
+CUS0710,2026-04-24,Organic Search,Desktop,16.2
+CUS0711,2026-01-20,Organic Search,Desktop,10.9
+CUS0712,2024-11-04,Email,Mobile,82.2
+CUS0713,2025-12-29,Referral,Desktop,64.8
+CUS0714,2026-04-27,Organic Search,Mobile,36.3
+CUS0715,2026-01-31,Direct,Desktop,45.1
+CUS0716,2025-11-10,Email,Mobile,77.9
+CUS0717,2025-08-08,Email,Tablet,53.5
+CUS0718,2025-08-09,Organic Search,Desktop,40.1
+CUS0719,2026-05-08,Social Media,Mobile,27.0
+CUS0720,2026-04-30,Email,Desktop,62.7
+CUS0721,2026-02-27,Direct,Desktop,96.9
+CUS0722,2025-12-10,Social Media,Mobile,12.8
+CUS0723,2024-09-13,Direct,Desktop,6.3
+CUS0724,2026-01-10,Email,Mobile,97.5
+CUS0725,2025-11-16,Direct,Desktop,84.6
+CUS0726,2025-03-09,Paid Ads,Desktop,70.3
+CUS0727,2025-11-26,Referral,Desktop,9.5
+CUS0728,2024-08-30,Organic Search,Mobile,15.9
+CUS0729,2025-08-14,Organic Search,Desktop,92.4
+CUS0730,2025-11-10,Paid Ads,Desktop,54.5
+CUS0731,2025-01-27,Organic Search,Mobile,65.6
+CUS0732,2025-01-14,Paid Ads,Mobile,42.4
+CUS0733,2025-04-14,Email,Mobile,10.9
+CUS0734,2026-04-14,Organic Search,Mobile,76.2
+CUS0735,2025-12-28,Paid Ads,Mobile,62.7
+CUS0736,2025-06-11,Paid Ads,Desktop,63.6
+CUS0737,2025-11-05,Referral,Tablet,35.2
+CUS0738,2025-09-22,Email,Mobile,33.2
+CUS0739,2026-01-04,Email,Desktop,63.7
+CUS0740,2026-01-01,Social Media,Desktop,67.1
+CUS0741,2025-08-18,Email,Desktop,57.9
+CUS0742,2024-12-23,Direct,Desktop,9.4
+CUS0743,2025-11-08,Referral,Mobile,31.7
+CUS0744,2025-02-14,Social Media,Desktop,92.7
+CUS0745,2024-09-02,Social Media,Mobile,19.7
+CUS0746,2026-04-19,Email,Mobile,54.8
+CUS0747,2024-10-12,Email,Mobile,39.3
+CUS0748,2025-12-29,Direct,Desktop,96.7
+CUS0749,2026-05-15,Paid Ads,Desktop,16.4
+CUS0750,2024-12-25,Referral,Mobile,75.5
+CUS0751,2026-07-16,Organic Search,Tablet,43.2
+CUS0752,2024-08-26,Email,Desktop,38.6
+CUS0753,2026-02-27,Referral,Desktop,54.4
+CUS0754,2025-05-19,Organic Search,Mobile,81.8
+CUS0755,2026-01-28,Referral,Mobile,63.7
+CUS0756,2024-11-18,Social Media,Mobile,84.5
+CUS0757,2025-03-14,Referral,Desktop,77.6
+CUS0758,2024-09-01,Organic Search,Mobile,70.9
+CUS0759,2025-01-15,Referral,Mobile,58.3
+CUS0760,2025-02-18,Email,Mobile,40.7
+CUS0761,2024-09-29,Direct,Mobile,62.9
+CUS0762,2025-04-26,Organic Search,Mobile,37.0
+CUS0763,2026-02-23,Social Media,Mobile,66.5
+CUS0764,2026-02-17,Email,Desktop,79.8
+CUS0765,2025-04-19,Paid Ads,Mobile,65.5
+CUS0766,2025-11-04,Organic Search,Tablet,17.1
+CUS0767,2025-02-06,Email,Desktop,65.1
+CUS0768,2025-05-11,Referral,Mobile,65.7
+CUS0769,2026-06-25,Paid Ads,Desktop,32.2
+CUS0770,2024-10-11,Organic Search,Desktop,61.1
+CUS0771,2024-09-08,Paid Ads,Mobile,24.8
+CUS0772,2025-12-22,Email,Desktop,5.5
+CUS0773,2026-01-04,Social Media,Desktop,59.9
+CUS0774,2025-10-18,Direct,Mobile,33.6
+CUS0775,2024-12-30,Referral,Tablet,77.4
+CUS0776,2026-07-06,Paid Ads,Mobile,76.4
+CUS0777,2026-03-18,Direct,Mobile,42.2
+CUS0778,2025-03-21,Email,Mobile,17.1
+CUS0779,2025-10-03,Referral,Mobile,20.5
+CUS0780,2025-09-14,Paid Ads,Mobile,73.4
+CUS0781,2024-10-03,Organic Search,Mobile,21.6
+CUS0782,2025-01-09,Paid Ads,Mobile,35.3
+CUS0783,2026-05-04,Organic Search,Tablet,71.0
+CUS0784,2026-02-08,Paid Ads,Tablet,6.8
+CUS0785,2026-01-20,Referral,Mobile,33.7
+CUS0786,2025-04-16,Organic Search,Mobile,65.2
+CUS0787,2025-09-24,Paid Ads,Desktop,21.1
+CUS0788,2025-04-06,Direct,Mobile,77.4
+CUS0789,2026-02-14,Paid Ads,Mobile,87.3
+CUS0790,2025-08-30,Organic Search,Desktop,43.0
+CUS0791,2025-11-08,Email,Mobile,20.6
+CUS0792,2026-03-11,Paid Ads,Desktop,89.0
+CUS0793,2026-03-01,Direct,Desktop,9.7
+CUS0794,2025-10-12,Organic Search,Mobile,39.1
+CUS0795,2025-04-03,Organic Search,Mobile,92.0
+CUS0796,2025-02-15,Direct,Mobile,45.1
+CUS0797,2025-01-26,Email,Mobile,60.7
+CUS0798,2026-03-11,Email,Desktop,46.4
+CUS0799,2025-06-12,Email,Desktop,38.6
+CUS0800,2026-05-19,Social Media,Mobile,22.4
+CUS0801,2026-04-20,Email,Desktop,24.7
+CUS0802,2025-09-01,Email,Desktop,56.9
+CUS0803,2025-03-19,Organic Search,Mobile,19.7
+CUS0804,2026-02-07,Direct,Mobile,48.7
+CUS0805,2026-03-24,Email,Mobile,25.6
+CUS0806,2025-01-07,Email,Tablet,17.7
+CUS0807,2025-05-28,Referral,Mobile,5.9
+CUS0808,2024-12-26,Email,Mobile,61.7
+CUS0809,2026-05-21,Referral,Tablet,38.1
+CUS0810,2024-09-28,Paid Ads,Mobile,19.8
+CUS0811,2025-01-02,Organic Search,Desktop,9.4
+CUS0812,2024-12-11,Email,Mobile,54.9
+CUS0813,2026-05-11,Referral,Mobile,11.6
+CUS0814,2025-04-24,Referral,Mobile,47.1
+CUS0815,2025-07-08,Email,Desktop,68.1
+CUS0816,2026-03-13,Email,Desktop,27.7
+CUS0817,2024-10-19,Referral,Mobile,54.5
+CUS0818,2024-12-22,Social Media,Mobile,61.1
+CUS0819,2024-12-18,Referral,Mobile,64.6
+CUS0820,2025-02-27,Referral,Mobile,47.9
+CUS0821,2026-03-19,Direct,Mobile,57.4
+CUS0822,2025-02-14,Organic Search,Desktop,86.7
+CUS0823,2025-09-01,Paid Ads,Mobile,19.3
+CUS0824,2025-03-20,Organic Search,Mobile,35.6
+CUS0825,2025-05-31,Social Media,Mobile,38.0
+CUS0826,2024-12-17,Direct,Mobile,17.5
+CUS0827,2025-07-23,Referral,Desktop,67.4
+CUS0828,2025-12-25,Referral,Mobile,59.1
+CUS0829,2025-04-14,Organic Search,Desktop,77.8
+CUS0830,2025-04-07,Organic Search,Mobile,56.0
+CUS0831,2025-12-30,Email,Desktop,19.4
+CUS0832,2025-07-24,Organic Search,Desktop,69.5
+CUS0833,2025-04-12,Direct,Mobile,68.5
+CUS0834,2025-11-27,Organic Search,Desktop,38.2
+CUS0835,2026-03-24,Email,Tablet,79.8
+CUS0836,2025-12-05,Email,Desktop,88.3
+CUS0837,2024-12-14,Social Media,Desktop,22.5
+CUS0838,2026-04-04,Organic Search,Mobile,31.3
+CUS0839,2025-10-19,Direct,Mobile,59.5
+CUS0840,2025-08-11,Email,Desktop,30.4
+CUS0841,2025-01-11,Direct,Desktop,76.7
+CUS0842,2025-11-05,Email,Mobile,40.4
+CUS0843,2024-08-24,Email,Mobile,56.5
+CUS0844,2025-09-29,Organic Search,Mobile,65.3
+CUS0845,2025-09-01,Social Media,Desktop,60.9
+CUS0846,2024-12-02,Referral,Mobile,34.5
+CUS0847,2025-09-09,Paid Ads,Tablet,60.1
+CUS0848,2025-03-31,Paid Ads,Desktop,73.5
+CUS0849,2025-11-17,Referral,Tablet,36.2
+CUS0850,2025-04-01,Email,Desktop,91.5
+CUS0851,2025-05-30,Email,Desktop,23.5
+CUS0852,2024-09-01,Social Media,Tablet,81.9
+CUS0853,2025-10-16,Paid Ads,Mobile,56.3
+CUS0854,2026-02-19,Social Media,Desktop,63.0
+CUS0855,2026-04-15,Referral,Mobile,12.8
+CUS0856,2025-07-31,Social Media,Desktop,62.6
+CUS0857,2025-08-05,Email,Mobile,19.4
+CUS0858,2026-05-18,Organic Search,Desktop,22.5
+CUS0859,2026-07-13,Referral,Mobile,5.5
+CUS0860,2025-10-20,Social Media,Desktop,79.5
+CUS0861,2026-06-27,Direct,Desktop,57.8
+CUS0862,2024-09-24,Paid Ads,Tablet,20.6
+CUS0863,2025-01-14,Email,Desktop,21.5
+CUS0864,2026-05-22,Social Media,Mobile,69.0
+CUS0865,2025-01-23,Paid Ads,Desktop,62.9
+CUS0866,2025-02-06,Organic Search,Mobile,86.2
+CUS0867,2025-03-01,Direct,Mobile,78.4
+CUS0868,2024-11-23,Social Media,Desktop,43.1
+CUS0869,2025-03-14,Organic Search,Tablet,99.5
+CUS0870,2025-07-30,Direct,Desktop,78.7
+CUS0871,2025-03-01,Direct,Mobile,42.1
+CUS0872,2025-01-09,Referral,Desktop,92.7
+CUS0873,2025-06-08,Referral,Desktop,84.4
+CUS0874,2025-09-16,Paid Ads,Desktop,19.4
+CUS0875,2025-06-15,Organic Search,Mobile,48.9
+CUS0876,2025-11-16,Referral,Desktop,58.9
+CUS0877,2025-10-11,Referral,Mobile,15.5
+CUS0878,2025-08-01,Email,Tablet,82.4
+CUS0879,2025-02-12,Email,Desktop,80.8
+CUS0880,2026-03-07,Organic Search,Desktop,22.8
+CUS0881,2025-09-22,Email,Desktop,18.7
+CUS0882,2025-12-18,Organic Search,Tablet,33.7
+CUS0883,2026-04-04,Direct,Tablet,79.9
+CUS0884,2025-12-20,Referral,Mobile,50.6
+CUS0885,2025-12-22,Organic Search,Mobile,97.5
+CUS0886,2024-08-29,Paid Ads,Desktop,84.6
+CUS0887,2025-10-23,Referral,Tablet,86.1
+CUS0888,2025-11-29,Organic Search,Desktop,78.3
+CUS0889,2025-10-18,Direct,Mobile,38.3
+CUS0890,2026-02-11,Email,Mobile,99.9
+CUS0891,2024-10-20,Email,Mobile,63.9
+CUS0892,2024-10-02,Direct,Desktop,18.1
+CUS0893,2025-10-20,Paid Ads,Desktop,51.7
+CUS0894,2026-04-15,Referral,Mobile,54.0
+CUS0895,2026-07-08,Social Media,Mobile,86.5
+CUS0896,2024-09-13,Email,Mobile,22.0
+CUS0897,2024-12-17,Direct,Mobile,15.5
+CUS0898,2024-12-01,Paid Ads,Mobile,58.0
+CUS0899,2025-06-06,Organic Search,Mobile,32.4
+CUS0900,2025-04-25,Paid Ads,Mobile,96.0
+CUS0901,2025-01-30,Email,Desktop,59.6
+CUS0902,2025-09-25,Paid Ads,Mobile,42.1
+CUS0903,2024-12-20,Direct,Desktop,16.9
+CUS0904,2026-03-05,Email,Mobile,23.7
+CUS0905,2025-09-13,Direct,Mobile,26.8
+CUS0906,2026-05-08,Referral,Desktop,41.0
+CUS0907,2025-01-25,Paid Ads,Mobile,89.9
+CUS0908,2026-05-10,Organic Search,Tablet,24.2
+CUS0909,2025-08-04,Social Media,Tablet,96.7
+CUS0910,2025-11-19,Social Media,Tablet,82.0
+CUS0911,2024-08-25,Organic Search,Mobile,25.3
+CUS0912,2025-10-09,Social Media,Desktop,10.2
+CUS0913,2026-04-13,Referral,Desktop,36.8
+CUS0914,2024-10-13,Organic Search,Desktop,58.6
+CUS0915,2025-06-30,Referral,Mobile,80.5
+CUS0916,2025-07-11,Email,Mobile,84.8
+CUS0917,2025-05-04,Referral,Desktop,10.7
+CUS0918,2024-08-27,Referral,Mobile,9.8
+CUS0919,2026-07-03,Email,Mobile,81.1
+CUS0920,2025-03-04,Paid Ads,Mobile,23.4
+CUS0921,2025-09-06,Direct,Desktop,51.0
+CUS0922,2026-04-10,Direct,Mobile,66.2
+CUS0923,2024-10-25,Email,Desktop,46.4
+CUS0924,2025-06-29,Referral,Desktop,86.2
+CUS0925,2024-10-20,Referral,Mobile,57.0
+CUS0926,2026-04-01,Paid Ads,Tablet,61.6
+CUS0927,2025-04-05,Organic Search,Desktop,21.7
+CUS0928,2026-06-24,Referral,Tablet,43.0
+CUS0929,2024-08-31,Organic Search,Desktop,10.2
+CUS0930,2024-09-29,Direct,Mobile,15.3
+CUS0931,2024-11-10,Direct,Mobile,43.0
+CUS0932,2025-11-27,Email,Tablet,78.4
+CUS0933,2025-03-20,Social Media,Mobile,8.5
+CUS0934,2026-03-11,Paid Ads,Mobile,48.3
+CUS0935,2024-12-10,Email,Desktop,91.0
+CUS0936,2026-05-11,Paid Ads,Desktop,78.5
+CUS0937,2025-02-22,Referral,Desktop,13.2
+CUS0938,2025-04-21,Organic Search,Desktop,51.9
+CUS0939,2025-12-27,Social Media,Mobile,88.8
+CUS0940,2025-09-02,Referral,Desktop,61.8
+CUS0941,2025-08-23,Email,Mobile,58.6
+CUS0942,2026-07-13,Direct,Mobile,43.6
+CUS0943,2026-06-15,Organic Search,Tablet,21.7
+CUS0944,2025-03-08,Organic Search,Desktop,16.0
+CUS0945,2025-03-28,Social Media,Desktop,75.3
+CUS0946,2026-01-23,Email,Mobile,59.8
+CUS0947,2025-09-12,Direct,Mobile,54.2
+CUS0948,2025-01-21,Paid Ads,Tablet,19.0
+CUS0949,2025-04-02,Email,Tablet,34.9
+CUS0950,2025-08-13,Direct,Mobile,35.1
+CUS0951,2024-11-24,Social Media,Desktop,41.5
+CUS0952,2025-07-12,Email,Mobile,80.0
+CUS0953,2026-07-18,Referral,Mobile,16.4
+CUS0954,2025-09-04,Referral,Desktop,91.7
+CUS0955,2026-02-01,Referral,Mobile,36.3
+CUS0956,2025-04-04,Direct,Desktop,67.2
+CUS0957,2026-05-09,Email,Tablet,62.6
+CUS0958,2024-08-27,Organic Search,Mobile,22.6
+CUS0959,2025-05-22,Social Media,Desktop,59.2
+CUS0960,2025-01-09,Social Media,Mobile,84.5
+CUS0961,2025-09-02,Direct,Mobile,55.8
+CUS0962,2026-06-03,Email,Mobile,19.3
+CUS0963,2025-09-19,Paid Ads,Mobile,94.0
+CUS0964,2025-08-09,Referral,Desktop,81.7
+CUS0965,2025-10-01,Organic Search,Desktop,79.0
+CUS0966,2026-02-07,Social Media,Mobile,57.3
+CUS0967,2026-02-26,Email,Mobile,60.8
+CUS0968,2026-05-11,Paid Ads,Tablet,36.1
+CUS0969,2025-08-07,Organic Search,Desktop,82.5
+CUS0970,2026-03-07,Paid Ads,Desktop,27.0
+CUS0971,2025-05-09,Paid Ads,Mobile,63.1
+CUS0972,2026-01-29,Paid Ads,Desktop,5.6
+CUS0973,2025-09-20,Paid Ads,Desktop,20.6
+CUS0974,2024-09-18,Organic Search,Desktop,45.1
+CUS0975,2025-07-20,Social Media,Mobile,50.4
+CUS0976,2025-02-15,Social Media,Desktop,8.9
+CUS0977,2025-03-31,Social Media,Mobile,73.2
+CUS0978,2024-12-01,Paid Ads,Mobile,12.9
+CUS0979,2026-06-12,Direct,Desktop,79.2
+CUS0980,2025-03-19,Email,Desktop,31.7
+CUS0981,2026-02-05,Email,Mobile,61.7
+CUS0982,2025-12-13,Referral,Mobile,21.3
+CUS0983,2024-10-25,Direct,Mobile,6.3
+CUS0984,2025-10-21,Referral,Desktop,97.0
+CUS0985,2025-07-26,Organic Search,Desktop,23.7
+CUS0986,2025-09-16,Organic Search,Mobile,54.3
+CUS0987,2026-05-07,Direct,Mobile,67.7
+CUS0988,2025-12-28,Email,Mobile,61.2
+CUS0989,2026-04-07,Referral,Mobile,90.1
+CUS0990,2025-09-29,Direct,Mobile,67.6
+CUS0991,2026-07-20,Referral,Mobile,23.9
+CUS0992,2025-01-28,Organic Search,Mobile,87.2
+CUS0993,2025-07-12,Organic Search,Tablet,20.6
+CUS0994,2026-05-30,Email,Mobile,13.6
+CUS0995,2024-08-27,Email,Mobile,15.2
+CUS0996,2026-01-09,Paid Ads,Desktop,5.6
+CUS0997,2025-11-20,Referral,Mobile,12.9
+CUS0998,2025-08-20,Social Media,Mobile,63.5
+CUS0999,2025-07-12,Social Media,Desktop,17.7
+CUS1000,2025-04-04,Paid Ads,Mobile,79.4
